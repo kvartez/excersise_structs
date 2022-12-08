@@ -23,9 +23,9 @@ void wypisz(struct uczan dup){
 int main(int argc, char** argv) {
 	uczan p1("milosz","gwizdziel",16);
 	wypisz(p1);
-	uczan p2("grzybnik","rudnik",16);
+	uczan p2("andrzej","skolopendron",16);
 	wypisz (p2);
-	uczan p3("bambaryla","ludzka",15);
+	uczan p3("marcin","king",15);
 	wypisz (p3);
 	return 0;
 }
